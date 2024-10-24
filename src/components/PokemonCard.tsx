@@ -1,4 +1,4 @@
-interface PokemonProps {
+interface PokemonCard {
     imgSrc: string;
     name: string;
   
